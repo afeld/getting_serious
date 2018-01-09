@@ -4,7 +4,7 @@ A workshop on front-end JavaScript development.
 
 ## Exercise setup
 
-```bash
+```sh
 git clone git@github.com:afeld/getting_serious.git
 cd getting_serious/exercise
 bundle install
